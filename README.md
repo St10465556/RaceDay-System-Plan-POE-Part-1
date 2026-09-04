@@ -2,6 +2,7 @@
 System plan for RaceDay/Marathon, consists of 3 sections for this planning part 1( ERD, API Endpoint plan and SQL Script)
 Organisers - Creates and manages events
 Participants- Browses events, registers, tracks performance
+youtube video: https://youtu.be/e5BrAAvO6vw
 CREATE DATABASE RaceDay;
 USE RaceDay;
 
